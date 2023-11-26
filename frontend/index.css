@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.book-info-text {
+    font-family: 'Open Sans', sans-serif;
+  font-size: 1rem; /* Or any size you prefer */
+  color: #000000; /* Or any color you prefer */
+}
